@@ -40,7 +40,6 @@ public class AutoGenerator {
      * 配置信息
      */
     protected ConfigBuilder config;
-
     /**
      * 注入配置
      */
